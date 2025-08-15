@@ -52,6 +52,95 @@ For more publications, please refer to the supervisors' homepage:
    url="https://arxiv.org/pdf/2206.00222"
 %}
 
+{% include pub_item_noimg.html
+   img_path="brnet2021.png"
+   title="An End-to-End Learning Framework for Video Compression"
+   author_list="G Lu, X Zhang, W Ouyang, L Chen, Z Gao, D Xu"
+   published_in="IEEE TPAMI, 2023"
+   url="https://drive.google.com/file/d/1V0UFabsCxckXC4VgbMcJQi4rg7D91L9c/view?usp=sharing"
+%}
+
+{% include pub_item_noimg.html
+   img_path="wang2021.png"
+   title="Cross-Dataset Point Cloud Recognition Using Deep-Shallow Domain Adaptation Network"
+   author_list="F Wang, W Li, D Xu"
+   published_in="IEEE TIP, 2021"
+   url="https://drive.google.com/file/d/1FVU-U2UCOXHtS4LNlqZHvxChSVNUaWg9/view?usp=sharing"
+%}
+
+{% include pub_item_noimg.html
+   img_path="zhang2020dense.png"
+   title="Improving Weakly Supervised Temporal Action Localization by Exploiting Multi-Resolution Information in Temporal Domain"
+   author_list="R Su, D Xu, L Zhou, W Ouyang"
+   published_in="IEEE TIP, 2021"
+   url="https://drive.google.com/file/d/1eQ1c-etEBHvBs-LfLNrC9zH-gOZ-l8GK/view?usp=sharing"
+%}
+
+{% include pub_item_noimg.html
+   img_path="zhang2020dense.png"
+   title="Dense Video Captioning Using Graph-Based Sentence Summarization"
+   author_list="Z Zhang, D Xu, W Ouyang, L Zhou"
+   published_in="IEEE TMM, 2021"
+   url="https://drive.google.com/file/d/1BfckRaW7iRJayxyuxqNjwhX9UwPOhtNC/view?usp=sharing"
+%}
+
+{% include pub_item_noimg.html
+   img_path="guo2020model.png"
+   title="Model Compression Using Progressive Channel Pruning"
+   author_list="J Guo, W Zhang, W Ouyang, D Xu"
+   published_in="IEEE TCSVT, 2021"
+   url="https://drive.google.com/file/d/1wzUwhv5UHVrijl2FUf1J3ySpMrW5qgQI/view?usp=sharing"
+%}
+
+{% include pub_item_noimg.html
+   img_path="zhang2021progressive.png"
+   title="Progressive Modality Cooperation for Multi-Modality Domain Adaptation"
+   author_list="W Zhang, D Xu, J Zhang, W Ouyang"
+   published_in="IEEE TIP, 2021"
+   url="https://drive.google.com/file/d/1l-qX5iZV48ZkToUsvKdYh9eKwmZsmNYt/view?usp=sharing"
+%}
+
+{% include pub_item_noimg.html
+   img_path="su2020progressive.png"
+   title="Progressive Cross-Stream Cooperation in Spatial and Temporal Domain for Action Localization"
+   author_list="R Su, D Xu, L Zhou, W Ouyang"
+   published_in="IEEE TPAMI, 2021"
+   url="https://drive.google.com/file/d/18zgM0ZG7F-Rm7dITo2oDrCQER2IadkFg/view?usp=sharing"
+%}
+
+{% include pub_item_noimg.html
+   img_path="zhang2021selfpaced.png"
+   title="Self-Paced Collaborative and Adversarial Network for Unsupervised Domain Adaptation"
+   author_list="W Zhang, W Ouyang, W Li, D Xu"
+   published_in="IEEE TPAMI, 2021"
+   url="https://arxiv.org/abs/2506.19267"
+%}
+
+{% include pub_item_noimg.html
+   img_path="lu2019deep.png"
+   title="Deep Non-Local Kalman Network for Video Compression Artifact Reduction"
+   author_list="G Lu, X Zhang, W Ouyang, D Xu, L Chen, Z Gao"
+   published_in="IEEE TIP, 2020"
+   url="https://drive.google.com/file/d/1OFKKhxdKJghe7joAsarctmc3ozyRexfS/view?usp=sharing"
+%}
+
+{% include pub_item_noimg.html
+   img_path="zhang2020show.png"
+   title="Show, Tell and Summarize: Dense Video Captioning Using Visual Cue Aided Sentence Summarization"
+   author_list="Z Zhang, D Xu, W Ouyang, C Tan"
+   published_in="IEEE TCSVT, 2020"
+   url="https://drive.google.com/file/d/1jdlh1jfC9URP_QbmHvdVzDsejev7HV_z/view?usp=sharing"
+%}
+
+{% include pub_item_noimg.html
+   img_path="zhang2020recent.png"
+   title="Recent Advances in Transfer Learning for Cross-Dataset Visual Recognition: A Problem-Oriented Perspective"
+   author_list="J Zhang, W Li, P Ogunbona, D Xu"
+   published_in="ACM Computing Surveys, 2019"
+   url="https://drive.google.com/file/d/1ZNGb1o_3TgKoWdktlQ0SD3whuvDxJaYo/view?usp=sharing"
+%}
+
+
 ## Conferences
 ---
 
@@ -142,6 +231,38 @@ For more publications, please refer to the supervisors' homepage:
    author_list="L Liu, Z Hu, Z Chen, D Xu"
    published_in="ACM MM, 2023"
    url="https://dl.acm.org/doi/abs/10.1145/3581783.3612041"
+%}
+
+{% include pub_item_noimg.html
+   img_path="zhang2021srdan.png"
+   title="SRDAN: Scale-aware and Range-aware Domain Adaptation Network for Cross-dataset 3D Object Detection"
+   author_list="W Zhang, W Li, D Xu"
+   published_in="CVPR, 2021"
+   url="https://openaccess.thecvf.com/content/CVPR2021/papers/Zhang_SRDAN_Scale-Aware_and_Range-Aware_Domain_Adaptation_Network_for_Cross-Dataset_3D_CVPR_2021_paper.pdf"
+%}
+
+{% include pub_item_noimg.html
+   img_path="brnet2021.png"
+   title="Channel Pruning Guided by Classification Loss and Feature Importance"
+   author_list="J Guo, W Ouyang, D Xu"
+   published_in="AAAI, 2020"
+   url="https://arxiv.org/abs/2003.06757"
+%}
+
+{% include pub_item_noimg.html
+   img_path="brnet2021.png"
+   title="Content Adaptive and Error Propagation Aware Deep Video Compression"
+   author_list="G Lu, C Cai, X Zhang, L Chen, W Ouyang, D Xu, Z Gao"
+   published_in="ECCV, 2020"
+   url="https://www.ecva.net/papers/eccv_2020/papers_ECCV/papers/123470443.pdf"
+%}
+
+{% include pub_item_noimg.html
+   img_path="guo2020multidimensional.png"
+   title="Multi-Dimensional Pruning: A Unified Framework for Model Compression"
+   author_list="J Guo, W Ouyang, D Xu"
+   published_in="CVPR, 2020"
+   url="https://openaccess.thecvf.com/content_CVPR_2020/papers/Guo_Multi-Dimensional_Pruning_A_Unified_Framework_for_Model_Compression_CVPR_2020_paper.pdf"
 %}
 
 
